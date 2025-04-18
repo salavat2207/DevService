@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+aiohttp
+alembic
+pydantic
+fastapi-admin
